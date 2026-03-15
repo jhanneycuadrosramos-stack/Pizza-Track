@@ -37,3 +37,14 @@ El sistema permite las siguientes opciones en consola:
 ## Autor
 
 Jhanney Antonio Cuadros Ramos
+
+## Ejecución del programa
+
+### Registro de pizza
+![Registro](imagenes/imagenregistro.png.png)
+
+### Deshacer pedido
+![Deshacer](imagenes/imagendeshacer.png.png)
+
+### Rehacer pedido
+![Rehacer](imagenes/imagenrehacer.png.png)
