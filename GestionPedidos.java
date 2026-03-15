@@ -22,7 +22,7 @@ public class GestionPedidos {
 
         pilaPrincipal.push(pizza);
 
-        System.out.println("Pizza registrada correctamente.");
+        System.out.println("Pedido registrado y enviado a la cocina.");
     }
 
     public void deshacer() {
