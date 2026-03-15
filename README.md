@@ -48,3 +48,9 @@ Jhanney Antonio Cuadros Ramos
 
 ### Rehacer pedido
 ![Rehacer](imagenes/imagenrehacer.png.png)
+
+## Video de sustentación
+
+Video explicativo del funcionamiento del sistema:
+
+https://drive.google.com/file/d/1g9H2gjynnnatOv5mmgCCogMGI2RLeqBp/view?usp=sharing
